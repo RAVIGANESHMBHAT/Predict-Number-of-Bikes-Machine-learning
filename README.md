@@ -1,0 +1,1 @@
+IT is a machine learning model which predicts the number of bikes running on road based on the temperature, humidity and wind speed.
